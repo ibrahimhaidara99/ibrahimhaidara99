@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibrahimhaidara99
-- 👀 I’m interested in ... looking for a job for a beginner in IT
+- 👀 I’m interested in ... looking for a job for a beginner in IT mentors, friends
   - 🌱 I’m currently learning ... Cybersecurity and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email, ihaidara144@gmail.com
