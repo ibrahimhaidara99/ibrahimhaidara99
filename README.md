@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 🔐 Aspiring Cybersecurity Enthusiast 🚀 | Python Learner 🐍 | Tech Explorer 👩‍💻
 
-Hello world! 👋 I'm Ibrahim Haidara living in Detroit Michigana and i'm an enthusiastic learner navigating the exciting world of cybersecurity through Google's comprehensive courses. 🌐 Currently armed with five certificates and three more on the horizon, my journey is just getting started!
+Hello world! 👋 I'm Ibrahim Haidara living in Brazoria Texas and i'm an enthusiastic learner navigating the exciting world of cybersecurity through Google's comprehensive courses. 🌐 Currently armed with five certificates and three more on the horizon, my journey is just getting started!
 
-🔍 Exploring the intricacies of digital security has been an eye-opening experience, and I'm eager to dive deeper into the realm of cyber defense. Alongside cybersecurity, I've embarked on a Python learning adventure, where I'm crafting the skills to automate and enhance security practices.
+🔍 Exploring the intricacies of digital security has been an eye-opening experience, and I'm eager to dive deeper into the realm of cyber defense. Alongside cybersecurity, I've embarked on a Python and linux learning adventure, where I'm crafting the skills to automate and enhance security practices.
 
 📚 While the learning path may be challenging, I'm here not just for the knowledge but also to build connections. Seeking friends, mentors, and potential job opportunities, I believe in the power of community in propelling us forward. 🤝
 
